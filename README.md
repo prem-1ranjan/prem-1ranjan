@@ -1,6 +1,6 @@
 # Hey, I'm Prem 👋
 
-🎓 3rd Year CS Student | Aspiring Backend Developer
+🎓 3rd Year CS Student | Data Science
 🤖 ML & Deep Learning — KNN to Neural Networks
 ⚙️ Building scalable systems with Java & Spring Boot
 🧠 DSA enthusiast | Open to internships 🚀
@@ -27,6 +27,12 @@
 ![Statistics](https://img.shields.io/badge/Statistics-013243?style=flat&logo=scipy&logoColor=white)
 ![Probability](https://img.shields.io/badge/Probability-4C72B0?style=flat&logo=scipy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### ☕ Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
