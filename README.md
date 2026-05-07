@@ -48,8 +48,8 @@
 
 
 
-![Profile views](https://komarev.com/ghpvc/?username=prem-1ranjan&color=8B5CF6&style=flat)
+
 
 ###  Projects
-- [Titanic Survival Prediction](https://github.com/prem-1ranjan/titanic-survival-prediction) — Logistic Regression
-- [Insurance Cost Prediction](https://github.com/prem-1ranjan/insurance-ml-project) — ML Regression
+- [Titanic Survival Prediction](https://github.com/prem-1ranjan/titanic-survival-prediction) — 5 ML models compared, 80.3% accuracy
+- [Insurance Cost Prediction](https://github.com/prem-1ranjan/insurance-ml-project) — Regression analysis
