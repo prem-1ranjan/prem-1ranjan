@@ -1,6 +1,6 @@
 # Hey, I'm Prem 
 
-  3rd Year CS Student | Data Science
+  3rd Year CS Student | Data Science |
   ML & Deep Learning — KNN to Neural Networks
   Building scalable systems with Java & Spring Boot
   DSA enthusiast | 
