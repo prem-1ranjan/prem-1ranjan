@@ -53,3 +53,4 @@
 ###  Projects
 - [Titanic Survival Prediction](https://github.com/prem-1ranjan/titanic-survival-prediction) — 5 ML models compared, 80.3% accuracy
 - [Insurance Cost Prediction](https://github.com/prem-1ranjan/insurance-ml-project) — Regression analysis
+- [Heart Disease Prediction](https://github.com/prem-1ranjan/heart-disease-prediction) — 5 models, KNN best at 88.59%
