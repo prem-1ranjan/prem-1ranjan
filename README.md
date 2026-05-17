@@ -50,7 +50,10 @@
 
 
 
-###  Projects
-- [Titanic Survival Prediction](https://github.com/prem-1ranjan/titanic-survival-prediction) — 5 ML models compared, 80.3% accuracy
+### Projects
+- [Breast Cancer Prediction](https://github.com/prem-1ranjan/breast-cancer-prediction) — ANN, 93.86% accuracy 
+- [Heart Disease Flask App](https://github.com/prem-1ranjan/heart-disease-flask-app) — KNN deployed with Flask 
+- [Heart Disease Prediction](https://github.com/prem-1ranjan/heart-disease-prediction) — 6 models + Neural Network
+- [Titanic Survival Prediction](https://github.com/prem-1ranjan/titanic-survival-prediction) — 5 ML models, 80.3%
 - [Insurance Cost Prediction](https://github.com/prem-1ranjan/insurance-ml-project) — Regression analysis
-- [Heart Disease Prediction](https://github.com/prem-1ranjan/heart-disease-prediction) — 5 models, KNN best at 88.59%
+- [ML Algorithms Practice](https://github.com/prem-1ranjan/ml-algorithms-practice) — KMeans, PCA, GridSearchCV
