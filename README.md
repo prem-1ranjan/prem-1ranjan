@@ -50,7 +50,8 @@
 
 
 
-### Projects
+###  Projects
+- [Face Mask Detection](https://github.com/prem-1ranjan/face-mask-detection) — CNN, 91.72% accuracy 
 - [Breast Cancer Prediction](https://github.com/prem-1ranjan/breast-cancer-prediction) — ANN, 93.86% accuracy 
 - [Heart Disease Flask App](https://github.com/prem-1ranjan/heart-disease-flask-app) — KNN deployed with Flask 
 - [Heart Disease Prediction](https://github.com/prem-1ranjan/heart-disease-prediction) — 6 models + Neural Network
